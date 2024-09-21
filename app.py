@@ -42,8 +42,8 @@ def process_and_query(urls):
 # Streamlit interface
 def main():
     # Set page title and icon
-    st.set_page_config(page_title="Conversational Chatbot with for URLs", page_icon=":speech_balloon:")
-    st.title("Conversational Chatbot with for URLs")
+    st.set_page_config(page_title="Conversational Chatbot for URLs", page_icon=":speech_balloon:")
+    st.title("Conversational Chatbot for URLs")
 
     # Get URLs from the user as a comma-separated input
     user_urls = st.text_area("Enter URLs (separated by commas):")
