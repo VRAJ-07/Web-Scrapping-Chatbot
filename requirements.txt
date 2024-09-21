@@ -1,0 +1,11 @@
+langchain==0.0.236
+streamlit==1.26.0
+faiss-cpu==1.7.3
+transformers==4.31.0
+sentence-transformers==2.2.2
+torch==2.0.1
+spacy==3.6.0
+langchain_huggingface==0.0.3
+huggingface-hub==0.16.4
+requests==2.31.0
+beautifulsoup4==4.12.2
