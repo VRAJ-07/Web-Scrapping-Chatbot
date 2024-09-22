@@ -75,6 +75,10 @@ You can provide URLs for scraping such as:
 
 4. **Conversational Context**: You can continue the conversation by asking follow-up questions, and the chatbot will remember the context of the previous interactions.
 
+
+## Example 
+https://github.com/user-attachments/assets/222f4d46-f1c6-41aa-ad9d-c7b52df7e486
+
 ## Code Breakdown
 
 ### Main Components
