@@ -1,4 +1,4 @@
-# Web Scrapping Chatbot - Conversational Chatbot with Web Scraping Using LLM and FAISS
+# Web Scrapping Chatbot - Conversational Chatbot Using LLM and FAISS
 
 ## Overview
 
